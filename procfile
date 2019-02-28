@@ -1,1 +1,1 @@
-web: guicorn catalogo myproject.wsgi
+web: guicorn projeto.wsgi
